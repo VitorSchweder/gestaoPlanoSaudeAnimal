@@ -1,0 +1,8 @@
+[12-Aug-2017 01:50:09 UTC] PHP Warning:  require_once(/home/planbel/public_html/_sistema/vendor/dompdf/dompdf_config.inc.php): failed to open stream: No such file or directory in /home/planbel/public_html/_sistema/ajax/ImprimeEtiqueta.php on line 5
+[12-Aug-2017 01:50:09 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/planbel/public_html/_sistema/vendor/dompdf/dompdf_config.inc.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/planbel/public_html/_sistema/ajax/ImprimeEtiqueta.php on line 5
+[12-Aug-2017 04:03:35 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/planbel/public_html/_sistema/ajax/ImprimeEtiqueta.php on line 21
+[12-Aug-2017 04:04:15 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/planbel/public_html/_sistema/ajax/ImprimeEtiqueta.php on line 21
+[12-Aug-2017 04:46:02 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/planbel/public_html/_sistema/ajax/ImprimeEtiqueta.php on line 21
+[12-Aug-2017 04:46:50 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/planbel/public_html/_sistema/ajax/ImprimeEtiqueta.php on line 21
+[12-Aug-2017 05:31:09 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/planbel/public_html/_sistema/ajax/ImprimeEtiqueta.php on line 24
+[12-Aug-2017 05:31:09 UTC] PHP Warning:  file_get_contents(http://sistema.planbel.com.br/vendor/bootstrap/css/bootstrap.min.css): failed to open stream: no suitable wrapper could be found in /home/planbel/public_html/_sistema/ajax/ImprimeEtiqueta.php on line 24
